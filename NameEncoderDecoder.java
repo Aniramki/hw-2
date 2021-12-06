@@ -1,6 +1,3 @@
-package main.java;
-
-
 public class NameEncoderDecoder {
 
     public static void main(String[] args) {
